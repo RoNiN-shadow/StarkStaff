@@ -1,0 +1,8 @@
+Items: {
+	MagicStaff: {
+		DisplayName: Stark Staff
+		Tooltip: "[c/C70a0a: Get Lost Squidward]"
+	}
+}
+
+Projectiles.MagicBullet.DisplayName: Stark Rocket

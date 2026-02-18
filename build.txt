@@ -1,0 +1,3 @@
+displayName = Magic Staff
+author = Mark
+version = 0.1
