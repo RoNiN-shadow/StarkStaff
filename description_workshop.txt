@@ -1,1 +1,15 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+[h1]Hey everyone![/h1]
+
+[h2]Announcing the Stark Staff[/h2]
+
+A powerful staff that lets you shoot auto-homing Stark Rockets.
+
+[img]https://i.imgur.com/fRZjyFJ.gif[/img]
+
+[img]https://i.imgur.com/aN2be9m.gif[/img]
+
+The auto-homing feature makes it easy to defeat enemies at any distance — don’t worry, the rocket will find them.
+
+For simplicity in survival mode, I added a recipe that requires only 1 wood at the workbench.
+
+GitHub of the Mod: [url=https://github.com/RoNiN-shadow/StarkStaff]here[/url]
