@@ -1,0 +1,9 @@
+Bring Stark swarm rockts to Terraria!
+
+A powerful staff that lets you shoot auto-homing Stark Rockets.
+
+The auto-homing feature makes it easy to defeat enemies at any distance — don’t worry, the rocket will find them.
+
+For simplicity in survival mode, I added a recipe that requires only 1 wood at the workbench.
+
+Download mod on Steam: [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3668761091)
