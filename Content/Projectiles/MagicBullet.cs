@@ -30,7 +30,7 @@ namespace MagicStaff.Content.Projectiles
       Projectile.rotation = Projectile.velocity.ToRotation() + MathHelper.PiOver2;
 
       float maxSpeed = 40f;
-      float acceleration = 0.7f;
+      float acceleration = 1f;
       var (clsNpc, minDist) = FindEnemy();
 
       if(clsNpc != null){
@@ -48,7 +48,7 @@ namespace MagicStaff.Content.Projectiles
           currentSpeed += acceleration;
 
         dir *= currentSpeed;
-        Projectile.velocity += (dir - Projectile.velocity) * 0.05f;
+        Projectile.velocity += (dir - Projectile.velocity) * 0.1f;
 
         Projectile.rotation = Projectile.velocity.ToRotation() + MathHelper.PiOver2;
 

@@ -16,16 +16,17 @@ namespace MagicStaff.Content.Items.Weapons
     {
       Item.width = 40;
       Item.height = 40;
-      Item.useTime = 20;
+      Item.useTime = 25;
       Item.useAnimation = 20;
       Item.useStyle = ItemUseStyleID.Shoot;
       Item.knockBack = 6;
-      Item.value = Item.buyPrice(silver: 10);
+      Item.value = Item.buyPrice(gold: 1);
       Item.rare = ItemRarityID.Blue;
       Item.UseSound =SoundID.Item1;
       Item.autoReuse = true;
-      Item.DamageType = DamageClass.Ranged;
+      Item.DamageType = DamageClass.Magic;
       Item.noMelee = true;
+      Item.mana = 10;
 
       Item.damage = 15;
       Item.shoot = ModContent.ProjectileType<MagicBullet>();
@@ -56,13 +57,6 @@ namespace MagicStaff.Content.Items.Weapons
       }
       return false;
     }
-    public override void AddRecipes()
-    {
-      CreateRecipe().AddIngredient(ItemID.Wood)
-          .AddTile(TileID.WorkBenches)
-          .Register();
-    }
   }
-      
 }
 
