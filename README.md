@@ -4,9 +4,9 @@
 
 A powerful staff that lets you shoot auto-homing Stark Rockets.
 
-[!Stark Staff](https://i.imgur.com/fRZjyFJ.gif)
+![Stark Staff](https://i.imgur.com/fRZjyFJ.gif)
 
-[! Stark Rockets](https://i.imgur.com/aN2be9m.gif)
+![Stark Rockets](https://i.imgur.com/aN2be9m.gif)
 
 The auto-homing feature makes it easy to defeat enemies at any distance — don’t worry, the rocket will find them.
 
